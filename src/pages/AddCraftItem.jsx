@@ -7,6 +7,7 @@ const AddCraftItem = () => {
   const handleFormSubmit = (e) => {
     e.preventDefault();
     const form = e.target;
+    
     const image_url = form.image_url.value;
     const item_name = form.item_name.value;
     const subcategory_name = form.subcategory_name.value;
