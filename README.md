@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Eco Craft
 
  Jute & Wooden Crafts
+=======
+##   Jute & Wooden Crafts
+>>>>>>> b7d6375f9df452beaeddea926c353da01a61d808
 
 Live Site:
   -  <a href="https://eco-craft.web.app](https://eco-craft.web.app/" target="blank"> Jute & Wooden Crafts </a> </p>
